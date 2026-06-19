@@ -1,0 +1,3 @@
+{"level":"INFO","message":"Application Started"}
+{"level":"ERROR","message":"Database Connection Failed"}
+{"level":"WARNING","message":"High CPU Usage"}
