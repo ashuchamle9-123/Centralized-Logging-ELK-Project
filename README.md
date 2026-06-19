@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="INDEX" src="https://github.com/user-attachments/assets/a0f2bd22-0b9d-4bc7-a0f4-3db346735d30" /><img width="1920" height="1080" alt="pro 6 docker push run" src="https://github.com/user-attachments/assets/dbf37f96-d447-484a-971e-e102c1b81da1" />
-# 🚀 Centralized Logging System using ELK Stack
+ 🚀 Centralized Logging System using ELK Stack
 
 ### Elasticsearch • Logstash • Kibana • Docker • AWS EC2
 
